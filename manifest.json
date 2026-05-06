@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Redirector",
+  "version": "0.1",
+  "permissions": ["declarativeNetRequest", "tabs", "webNavigation"],
+  "host_permissions": [
+    "https://www.google.com"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
