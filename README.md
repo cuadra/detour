@@ -1,5 +1,6 @@
 # Detour
-
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/cc115538-714d-4d6d-ba04-dab081515aec" />
+<br>
 Detour is a small Chrome extension that registers a `declarativeNetRequest` redirect rule through a background service worker. It is intended for local override workflows where requests for a specific asset URL should be redirected to a different local file or resource.
 
 ## Files
